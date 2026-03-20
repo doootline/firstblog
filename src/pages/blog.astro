@@ -1,8 +1,6 @@
 ---
 import '../styles/global.css';
-import '../components/Navigation.astro';
-import Navigation from '../components/Navigation.astro';
-
+import Header from '../components/Header.astro';
 const pageTitle = "我的 Astro 学习博客";
 ---
 
@@ -16,7 +14,7 @@ const pageTitle = "我的 Astro 学习博客";
 		<title>{pageTitle}</title>
 	</head>
 	<body>
-        <Navigation />
+        <Header />
 
         <h1>{pageTitle}</h1>
         <p>在这里，我将分享我的 Astro 学习之旅。</p>
