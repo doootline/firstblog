@@ -5,8 +5,8 @@ pubDate: 2026-03-17
 description: '这是我 Astro 博客的第一篇文章。'
 author: 'Elostiron'
 image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
+    url: "/public/p0.jpg"
+    alt: 'Miku'
 tags: ["astro", "blogging", "learning in public"]
 ---
  欢迎来到我学习关于 Astro 的新博客！在这里，我将分享我建立新网站的学习历程。
