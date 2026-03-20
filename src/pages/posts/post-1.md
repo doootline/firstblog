@@ -5,7 +5,7 @@ pubDate: 2026-03-17
 description: '这是我 Astro 博客的第一篇文章。'
 author: 'Elostiron'
 image:
-    url: "/public/p0.jpg"
+    url: "/p0.jpg"
     alt: 'Miku'
 tags: ["astro", "blogging", "learning in public"]
 ---
